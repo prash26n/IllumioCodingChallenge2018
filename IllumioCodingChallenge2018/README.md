@@ -8,6 +8,9 @@ Also, using a HashMap<AllowedRules,Integer> configuration is good considering a 
 If i had more time, i would have tried to write code in a way that the constructor is also efficient. Also to improve the space occupied by all the network rules, stored individually, i would have tried to re-form the datastructure so that the range values could be stored key:value pair with constant lookup for range. Without actually having to iterate through the range(s) of port and the IP address.
 
 ### Order of preference for teams
+
 > Platform team - My 5 years of experience with back-end based frameworks like Spring in Java language would be great for me to use and improve my skills with this time.
+
 > Policy team
+
 > Data team
